@@ -1,0 +1,10 @@
+//taking inputs console readline
+
+            Console.Write("Enter first name: ");
+            string firstName = Console.ReadLine();
+            Console.Write("Enter last name: ");
+            string lastName = Console.ReadLine();
+            Console.Write("Enter age: ");
+            int age = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine($"First name: {firstName}, Last name: {lastName}");
+            Console.WriteLine("Your age: "+ age);
