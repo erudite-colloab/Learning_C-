@@ -1,0 +1,14 @@
+C:\Users\ERUDITE\source\repos\TryWork\bin\Debug\net6.0\TryWork.exe
+C:\Users\ERUDITE\source\repos\TryWork\bin\Debug\net6.0\TryWork.deps.json
+C:\Users\ERUDITE\source\repos\TryWork\bin\Debug\net6.0\TryWork.runtimeconfig.json
+C:\Users\ERUDITE\source\repos\TryWork\bin\Debug\net6.0\TryWork.dll
+C:\Users\ERUDITE\source\repos\TryWork\bin\Debug\net6.0\TryWork.pdb
+C:\Users\ERUDITE\source\repos\TryWork\obj\Debug\net6.0\TryWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERUDITE\source\repos\TryWork\obj\Debug\net6.0\TryWork.AssemblyInfoInputs.cache
+C:\Users\ERUDITE\source\repos\TryWork\obj\Debug\net6.0\TryWork.AssemblyInfo.cs
+C:\Users\ERUDITE\source\repos\TryWork\obj\Debug\net6.0\TryWork.csproj.CoreCompileInputs.cache
+C:\Users\ERUDITE\source\repos\TryWork\obj\Debug\net6.0\TryWork.dll
+C:\Users\ERUDITE\source\repos\TryWork\obj\Debug\net6.0\refint\TryWork.dll
+C:\Users\ERUDITE\source\repos\TryWork\obj\Debug\net6.0\TryWork.pdb
+C:\Users\ERUDITE\source\repos\TryWork\obj\Debug\net6.0\TryWork.genruntimeconfig.cache
+C:\Users\ERUDITE\source\repos\TryWork\obj\Debug\net6.0\ref\TryWork.dll
