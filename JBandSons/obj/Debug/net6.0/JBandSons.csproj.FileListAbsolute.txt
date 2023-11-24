@@ -1,0 +1,14 @@
+C:\Users\ERUDITE\source\repos\JBandSons\bin\Debug\net6.0\JBandSons.exe
+C:\Users\ERUDITE\source\repos\JBandSons\bin\Debug\net6.0\JBandSons.deps.json
+C:\Users\ERUDITE\source\repos\JBandSons\bin\Debug\net6.0\JBandSons.runtimeconfig.json
+C:\Users\ERUDITE\source\repos\JBandSons\bin\Debug\net6.0\JBandSons.dll
+C:\Users\ERUDITE\source\repos\JBandSons\bin\Debug\net6.0\JBandSons.pdb
+C:\Users\ERUDITE\source\repos\JBandSons\obj\Debug\net6.0\JBandSons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERUDITE\source\repos\JBandSons\obj\Debug\net6.0\JBandSons.AssemblyInfoInputs.cache
+C:\Users\ERUDITE\source\repos\JBandSons\obj\Debug\net6.0\JBandSons.AssemblyInfo.cs
+C:\Users\ERUDITE\source\repos\JBandSons\obj\Debug\net6.0\JBandSons.csproj.CoreCompileInputs.cache
+C:\Users\ERUDITE\source\repos\JBandSons\obj\Debug\net6.0\JBandSons.dll
+C:\Users\ERUDITE\source\repos\JBandSons\obj\Debug\net6.0\refint\JBandSons.dll
+C:\Users\ERUDITE\source\repos\JBandSons\obj\Debug\net6.0\JBandSons.pdb
+C:\Users\ERUDITE\source\repos\JBandSons\obj\Debug\net6.0\JBandSons.genruntimeconfig.cache
+C:\Users\ERUDITE\source\repos\JBandSons\obj\Debug\net6.0\ref\JBandSons.dll
